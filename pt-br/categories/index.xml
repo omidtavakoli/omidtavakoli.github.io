@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on امید توکلی</title>
-    <link>omidtavakoli.github.io/homepage/pt-br/categories/</link>
+    <link>omidtavakoli.github.io/pt-br/categories/</link>
     <description>Recent content in Categories on امید توکلی</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="omidtavakoli.github.io/homepage/pt-br/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="omidtavakoli.github.io/pt-br/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>blog</title>
-      <link>omidtavakoli.github.io/homepage/pt-br/categories/blog/</link>
+      <link>omidtavakoli.github.io/pt-br/categories/blog/</link>
       <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>omidtavakoli.github.io/homepage/pt-br/categories/blog/</guid>
+      <guid>omidtavakoli.github.io/pt-br/categories/blog/</guid>
       <description></description>
     </item>
     
