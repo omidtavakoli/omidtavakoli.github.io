@@ -3,148 +3,148 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>omidtavakoli.github.io/pt-br/categories/blog/</loc>
+    <loc>/pt-br/categories/blog/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>omidtavakoli.github.io/pt-br/categories/</loc>
+    <loc>/pt-br/categories/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="omidtavakoli.github.io/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="omidtavakoli.github.io/pt-br/categories/"
+                href="/pt-br/categories/"
                 />
   </url>
   
   <url>
-    <loc>omidtavakoli.github.io/pt-br/posts/dummy/</loc>
+    <loc>/pt-br/posts/dummy/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>omidtavakoli.github.io/pt-br/tags/hugo/</loc>
+    <loc>/pt-br/tags/hugo/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="omidtavakoli.github.io/tags/hugo/"
+                href="/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="omidtavakoli.github.io/pt-br/tags/hugo/"
+                href="/pt-br/tags/hugo/"
                 />
   </url>
   
   <url>
-    <loc>omidtavakoli.github.io/pt-br/tags/i18n/</loc>
+    <loc>/pt-br/tags/i18n/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>omidtavakoli.github.io/pt-br/posts/</loc>
+    <loc>/pt-br/posts/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="omidtavakoli.github.io/posts/"
+                href="/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="omidtavakoli.github.io/pt-br/posts/"
+                href="/pt-br/posts/"
                 />
   </url>
   
   <url>
-    <loc>omidtavakoli.github.io/pt-br/tags/</loc>
+    <loc>/pt-br/tags/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="omidtavakoli.github.io/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="omidtavakoli.github.io/pt-br/tags/"
+                href="/pt-br/tags/"
                 />
   </url>
   
   <url>
-    <loc>omidtavakoli.github.io/pt-br/</loc>
+    <loc>/pt-br/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="omidtavakoli.github.io/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="omidtavakoli.github.io/pt-br/"
+                href="/pt-br/"
                 />
   </url>
   
   <url>
-    <loc>omidtavakoli.github.io/pt-br/contact/</loc>
+    <loc>/pt-br/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="omidtavakoli.github.io/contact/"
+                href="/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="omidtavakoli.github.io/pt-br/contact/"
+                href="/pt-br/contact/"
                 />
   </url>
   
   <url>
-    <loc>omidtavakoli.github.io/pt-br/projects/</loc>
+    <loc>/pt-br/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="omidtavakoli.github.io/projects/"
+                href="/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="omidtavakoli.github.io/pt-br/projects/"
+                href="/pt-br/projects/"
                 />
   </url>
   
   <url>
-    <loc>omidtavakoli.github.io/pt-br/series/</loc>
+    <loc>/pt-br/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="omidtavakoli.github.io/series/"
+                href="/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="omidtavakoli.github.io/pt-br/series/"
+                href="/pt-br/series/"
                 />
   </url>
   
   <url>
-    <loc>omidtavakoli.github.io/pt-br/about/</loc>
+    <loc>/pt-br/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="omidtavakoli.github.io/about/"
+                href="/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="omidtavakoli.github.io/pt-br/about/"
+                href="/pt-br/about/"
                 />
   </url>
   
