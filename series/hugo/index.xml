@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Omid Tavakoli</title>
-    <link>omidtavakoli.github.io/public/series/hugo/</link>
+    <link>omidtavakoli.github.io/series/hugo/</link>
     <description>Recent content in Hugo on Omid Tavakoli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 28 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="omidtavakoli.github.io/public/series/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="omidtavakoli.github.io/series/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Who is Software Engineer</title>
-      <link>omidtavakoli.github.io/public/posts/who-is-software-engineer/</link>
+      <link>omidtavakoli.github.io/posts/who-is-software-engineer/</link>
       <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>omidtavakoli.github.io/public/posts/who-is-software-engineer/</guid>
+      <guid>omidtavakoli.github.io/posts/who-is-software-engineer/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Render LaTeX using KaTeX</title>
-      <link>omidtavakoli.github.io/public/posts/render-latex-using-katex/</link>
+      <link>omidtavakoli.github.io/posts/render-latex-using-katex/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>omidtavakoli.github.io/public/posts/render-latex-using-katex/</guid>
+      <guid>omidtavakoli.github.io/posts/render-latex-using-katex/</guid>
       <description>Enable katex by adding katex = &amp;quot;true&amp;quot; to the front matter
 +++ katex = &amp;#34;true&amp;#34; +++ It&amp;rsquo;s almost a dropin alternative to the mathjax solution,you should just choose one of them.
 Inline math looks like this
@@ -37,19 +37,19 @@ $$\sum_{n=1}^{\infty} 2^{-n} =1$$ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</descript
     
     <item>
       <title>Hugo coder wiki</title>
-      <link>omidtavakoli.github.io/public/posts/hugo-coder-wiki/</link>
+      <link>omidtavakoli.github.io/posts/hugo-coder-wiki/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>omidtavakoli.github.io/public/posts/hugo-coder-wiki/</guid>
+      <guid>omidtavakoli.github.io/posts/hugo-coder-wiki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme Demo</title>
-      <link>omidtavakoli.github.io/public/posts/theme-demo/</link>
+      <link>omidtavakoli.github.io/posts/theme-demo/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>omidtavakoli.github.io/public/posts/theme-demo/</guid>
+      <guid>omidtavakoli.github.io/posts/theme-demo/</guid>
       <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
 This is bold text
 This is italic text
@@ -62,20 +62,20 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>omidtavakoli.github.io/public/posts/hugo-template-primer/</link>
+      <link>omidtavakoli.github.io/posts/hugo-template-primer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>omidtavakoli.github.io/public/posts/hugo-template-primer/</guid>
+      <guid>omidtavakoli.github.io/posts/hugo-template-primer/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>omidtavakoli.github.io/public/posts/hugoisforlovers/</link>
+      <link>omidtavakoli.github.io/posts/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>omidtavakoli.github.io/public/posts/hugoisforlovers/</guid>
+      <guid>omidtavakoli.github.io/posts/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -86,10 +86,10 @@ Follow the following steps:
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>omidtavakoli.github.io/public/posts/migrate-from-jekyll/</link>
+      <link>omidtavakoli.github.io/posts/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>omidtavakoli.github.io/public/posts/migrate-from-jekyll/</guid>
+      <guid>omidtavakoli.github.io/posts/migrate-from-jekyll/</guid>
       <description>Table of Contents  Move static content to static Create your Hugo configuration file Set your configuration publish folder to site Convert Jekyll templates to Hugo templates Convert Jekyll plugins to Hugo shortcodes  Implementation Usage  Finishing Touches  Fix Content Clean Up  A practical example in a diff  Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output.</description>
     </item>
     

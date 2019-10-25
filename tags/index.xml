@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Omid Tavakoli</title>
-    <link>omidtavakoli.github.io/public/tags/</link>
+    <link>omidtavakoli.github.io/tags/</link>
     <description>Recent content in Tags on Omid Tavakoli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="omidtavakoli.github.io/public/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="omidtavakoli.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>development</title>
-      <link>omidtavakoli.github.io/public/tags/development/</link>
+      <link>omidtavakoli.github.io/tags/development/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>omidtavakoli.github.io/public/tags/development/</guid>
+      <guid>omidtavakoli.github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>omidtavakoli.github.io/public/tags/hugo/</link>
+      <link>omidtavakoli.github.io/tags/hugo/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>omidtavakoli.github.io/public/tags/hugo/</guid>
+      <guid>omidtavakoli.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>omidtavakoli.github.io/public/tags/themes/</link>
+      <link>omidtavakoli.github.io/tags/themes/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>omidtavakoli.github.io/public/tags/themes/</guid>
+      <guid>omidtavakoli.github.io/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>omidtavakoli.github.io/public/tags/go/</link>
+      <link>omidtavakoli.github.io/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>omidtavakoli.github.io/public/tags/go/</guid>
+      <guid>omidtavakoli.github.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>omidtavakoli.github.io/public/tags/golang/</link>
+      <link>omidtavakoli.github.io/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>omidtavakoli.github.io/public/tags/golang/</guid>
+      <guid>omidtavakoli.github.io/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>omidtavakoli.github.io/public/tags/templates/</link>
+      <link>omidtavakoli.github.io/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>omidtavakoli.github.io/public/tags/templates/</guid>
+      <guid>omidtavakoli.github.io/tags/templates/</guid>
       <description></description>
     </item>
     

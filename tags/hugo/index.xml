@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on Omid Tavakoli</title>
-    <link>omidtavakoli.github.io/public/tags/hugo/</link>
+    <link>omidtavakoli.github.io/tags/hugo/</link>
     <description>Recent content in hugo on Omid Tavakoli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="omidtavakoli.github.io/public/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="omidtavakoli.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo coder wiki</title>
-      <link>omidtavakoli.github.io/public/posts/hugo-coder-wiki/</link>
+      <link>omidtavakoli.github.io/posts/hugo-coder-wiki/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>omidtavakoli.github.io/public/posts/hugo-coder-wiki/</guid>
+      <guid>omidtavakoli.github.io/posts/hugo-coder-wiki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>omidtavakoli.github.io/public/posts/hugoisforlovers/</link>
+      <link>omidtavakoli.github.io/posts/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>omidtavakoli.github.io/public/posts/hugoisforlovers/</guid>
+      <guid>omidtavakoli.github.io/posts/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo

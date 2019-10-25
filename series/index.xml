@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Omid Tavakoli</title>
-    <link>omidtavakoli.github.io/public/series/</link>
+    <link>omidtavakoli.github.io/series/</link>
     <description>Recent content in Series on Omid Tavakoli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 28 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="omidtavakoli.github.io/public/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="omidtavakoli.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo</title>
-      <link>omidtavakoli.github.io/public/series/hugo/</link>
+      <link>omidtavakoli.github.io/series/hugo/</link>
       <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>omidtavakoli.github.io/public/series/hugo/</guid>
+      <guid>omidtavakoli.github.io/series/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme</title>
-      <link>omidtavakoli.github.io/public/series/theme/</link>
+      <link>omidtavakoli.github.io/series/theme/</link>
       <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>omidtavakoli.github.io/public/series/theme/</guid>
+      <guid>omidtavakoli.github.io/series/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting Started</title>
-      <link>omidtavakoli.github.io/public/series/getting-started/</link>
+      <link>omidtavakoli.github.io/series/getting-started/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>omidtavakoli.github.io/public/series/getting-started/</guid>
+      <guid>omidtavakoli.github.io/series/getting-started/</guid>
       <description></description>
     </item>
     
