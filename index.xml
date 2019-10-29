@@ -99,11 +99,8 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>This is Omid, Experienced software engineer who is interested in investment and business.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <description>This is Omid, experienced software engineer who is interested in investment and business. A happy software engineer who enjoys solving real-world problems using codes, investment and strategies. I graduated from computer engineering department at Amirkabir university of technology in Iran. After 5 years of experience in developing software, I wanted to use my skills in business then started studying MBA at Bahar School of Management.
+My main interests are:  Software Engineering Investment &amp;amp; Finance Business Strategy  Don&amp;rsquo;t hesitate to let me know if you are interested in my world.</description>
     </item>
     
     <item>
@@ -112,7 +109,7 @@ Setup Some fun facts about Hugo:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>omidtavakoli.info[a]gmail.com</description>
+      <description>[firstname][lastname].info at gmail.com</description>
     </item>
     
     <item>
@@ -121,7 +118,7 @@ Setup Some fun facts about Hugo:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/</guid>
-      <description>Nothing to see here&amp;hellip; Move along!</description>
+      <description> Leveraging Codes:  This project is &amp;hellip;  </description>
     </item>
     
   </channel>
