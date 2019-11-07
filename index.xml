@@ -6,15 +6,15 @@
     <description>Recent content on Omid Tavakoli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Who is Software Engineer (dummy)</title>
+      <title>Who is Software Engineer</title>
       <link>/posts/who-is-software-engineer/</link>
-      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/posts/who-is-software-engineer/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
@@ -22,7 +22,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>Dummy</title>
+      <title>Dummy5</title>
       <link>/posts/render-latex-using-katex/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -36,7 +36,7 @@ $$\sum_{n=1}^{\infty} 2^{-n} =1$$ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</descript
     </item>
     
     <item>
-      <title>Dummy</title>
+      <title>Dummy1</title>
       <link>/posts/hugo-coder-wiki/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -45,7 +45,7 @@ $$\sum_{n=1}^{\infty} 2^{-n} =1$$ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$</descript
     </item>
     
     <item>
-      <title>Dummy</title>
+      <title>Dummy6</title>
       <link>/posts/theme-demo/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
       
@@ -61,7 +61,7 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
     </item>
     
     <item>
-      <title>Dummy</title>
+      <title>Dummy2</title>
       <link>/posts/hugo-template-primer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
@@ -71,7 +71,7 @@ This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
-      <title>Dummy</title>
+      <title>Dummy3</title>
       <link>/posts/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
@@ -85,7 +85,7 @@ Follow the following steps:
     </item>
     
     <item>
-      <title>Dummy</title>
+      <title>Dummy4</title>
       <link>/posts/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
@@ -99,8 +99,8 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>This is Omid, experienced software engineer who is interested in investment and business. A happy software engineer who enjoys solving real-world problems using codes, investment and strategies. I graduated from computer engineering department at Amirkabir university of technology in Iran. After 5 years of experience in developing software, I wanted to use my skills in business then started studying MBA at Bahar School of Management.
-My main interests are:  Software Engineering Investment &amp;amp; Finance Business Strategy  Don&amp;rsquo;t hesitate to let me know if you are interested in my world.</description>
+      <description>This is Omid (which means Hope in persian), experienced Software Engineer who is interested in Investment. A happy guy who enjoys solving real-world problems using codes, investment and strategies. I graduated from computer engineering department at Amirkabir university of technology in Iran. After 5 years of experience in developing software, I wanted to develop my skills in business area then started studying MBA at Bahar School of Management.
+Don&amp;rsquo;t hesitate to let me know if you are interested in my world.</description>
     </item>
     
     <item>
@@ -118,7 +118,7 @@ My main interests are:  Software Engineering Investment &amp;amp; Finance Busine
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/</guid>
-      <description> Leveraging Codes:  This project is &amp;hellip;  </description>
+      <description>Leveraging Codes &amp;hellip; coming soon:  This project is my dream in achieving better performance in finance and investment using programming. In this project I am going to review and make codes used in finance. Leverage means &amp;ldquo;to use something that you already have in order to achieve something new or better&amp;rdquo; and in finance means &amp;ldquo;using borrowed capital as a funding source&amp;rdquo;. So I am going to borrows codes power in making value in finance industry.</description>
     </item>
     
   </channel>
